@@ -1,0 +1,30 @@
+[
+  {
+    "path": "artifacts/video.mp4",
+    "duration_seconds": 10,
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "frames": 300,
+    "video_codec": "H.264 High / yuv420p",
+    "audio": "AAC-LC stereo 48 kHz, decoded samples all zero",
+    "bytes": 4651853,
+    "first_last_decoded_frame_md5": "65e37a80834a86f635c8004ce410c3fb",
+    "faststart": true,
+    "sha256": "c4760f0caefbb4f6e65a1d7c47d11ab9295baae5f9494c89c33434bb5fff3382"
+  },
+  {
+    "path": "artifacts/video-square.mp4",
+    "duration_seconds": 10,
+    "width": 1080,
+    "height": 1080,
+    "fps": 30,
+    "frames": 300,
+    "video_codec": "H.264 High / yuv420p",
+    "audio": "AAC-LC stereo 48 kHz, decoded samples all zero",
+    "bytes": 2621172,
+    "first_last_decoded_frame_md5": "a239f885736c3d3f76f9124ad723b71c",
+    "faststart": true,
+    "sha256": "80af5cae4755e1438b4a9e6daff3f4c46a80cadd103396cc869ebf680fe1f428"
+  }
+]
